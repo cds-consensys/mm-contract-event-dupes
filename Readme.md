@@ -1,4 +1,4 @@
-This repo is to reproduce a MetaMask issue.
+This project is a dapp to demonstrate this [MetaMask issue](https://github.com/MetaMask/metamask-extension/issues/6668).
 
 ## Instructions
 
