@@ -16,3 +16,6 @@ This repo is to reproduce a MetaMask issue.
     * `npm start`
 
 1. Test in chrome with MetaMask extension and incognito mode, sans extensions
+
+**Note**: Make sure to set MetaMask extension to localhost:9545 to use the
+local chain started by `truffle develop`
